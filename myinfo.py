@@ -1,0 +1,5 @@
+name = str(input("Enter your name: "))
+SID = int(input("Enter your SID: "))
+CGPA = float(input("Enter your CPGA: "))
+dep = str(input("Enter your department"))
+print("Hey,",name," here! \n My SID is ",SID,"\n I am from ",dep," and my CGPA is ",CGPA)
